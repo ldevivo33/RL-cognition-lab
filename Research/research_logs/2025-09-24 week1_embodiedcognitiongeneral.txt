@@ -1,0 +1,9 @@
+Embodied cognition is the rejection of the traditionalist view of cognitive science that essentially abstracts cognition and the mind as purely computational systems. In other words, brains are not just 
+calculators that then control everything else downstream. The cognition is importantly distributed over the system and relies on not jsut the constricitons of the body but ... ? . 
+
+Rodney Brooks -> important figure, one of the ogs , MIT / stanford / industry robotics guy. created creatures with no central processing to solve problems like elephants and prove that cognition could meerge 
+from the local chaos. Really cool stuff, sparked embodied cognition and understandably lead to the more controversial opinions. 
+
+Folia gives an overview, more modern ~2013 and general approach. 
+
+What cognition is not article is fairly radical with some good examples (ie baseball).
