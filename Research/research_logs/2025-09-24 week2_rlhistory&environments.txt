@@ -1,0 +1,7 @@
+will build on gymansium, upgrades vers of open ai gym. most robust and supported and user friendly, wil allow for easy to get working aand easy to expand. 
+can implement multi modal ? yes on toy environments included. 
+
+RL History paper paths: 
+bellman & sutton/barto work pre papers -> q learning -> REINFORCE -> DQN -> Alphago/zero -> PPO -> Muzero
+
+** MARKOV DECISION PROCESSES!! **
