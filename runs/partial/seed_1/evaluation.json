@@ -1,0 +1,8 @@
+{
+  "nominal": {
+    "episodes": 20.0,
+    "gravity": 9.8,
+    "mean_reward": 45.3,
+    "std_reward": 7.842831121476478
+  }
+}

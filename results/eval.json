@@ -1,0 +1,50 @@
+[
+  {
+    "condition": "partial",
+    "seed": 0,
+    "episodes": 20.0,
+    "gravity": 9.8,
+    "mean_reward": 43.35,
+    "std_reward": 11.32817284472655
+  },
+  {
+    "condition": "partial",
+    "seed": 1,
+    "episodes": 20.0,
+    "gravity": 9.8,
+    "mean_reward": 45.3,
+    "std_reward": 7.842831121476478
+  },
+  {
+    "condition": "partial",
+    "seed": 2,
+    "episodes": 20.0,
+    "gravity": 9.8,
+    "mean_reward": 43.15,
+    "std_reward": 8.661841605570954
+  },
+  {
+    "condition": "full",
+    "seed": 0,
+    "episodes": 20.0,
+    "gravity": 9.8,
+    "mean_reward": 500.0,
+    "std_reward": 0.0
+  },
+  {
+    "condition": "full",
+    "seed": 1,
+    "episodes": 20.0,
+    "gravity": 9.8,
+    "mean_reward": 150.2,
+    "std_reward": 3.815756805667782
+  },
+  {
+    "condition": "full",
+    "seed": 2,
+    "episodes": 20.0,
+    "gravity": 9.8,
+    "mean_reward": 500.0,
+    "std_reward": 0.0
+  }
+]

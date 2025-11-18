@@ -2,3 +2,4 @@ gymnasium[classic-control]
 numpy
 matplotlib
 torch
+stable-baselines3
