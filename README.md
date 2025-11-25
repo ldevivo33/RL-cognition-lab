@@ -6,4 +6,4 @@ All files in cartpole subfolder, training files and agent files seperate.
 
 Pivoted from true multi modal to modal suppresion simulation sensation deprevation. 
 
-https://gymnasium.farama.org/
+Final Presentation : https://youtu.be/kPnqOj4zPKU
